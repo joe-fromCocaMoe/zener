@@ -5,4 +5,5 @@ Press the start button to begin, there's 5 of
 each cards when you selected the max number the button
 will be disabled. At the end it gives a percentage of
 correct answers and prints out all cards your guess
-and the correct one.
+and the correct one. I created this on a linux operating
+system you may have to modify the image paths for windows or os.
